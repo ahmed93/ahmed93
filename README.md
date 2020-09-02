@@ -25,7 +25,7 @@ Hi, I'm Ahmed, a passionate self-taught developer. I am currenlty enjoying devel
 
 
 <a href="https://github.com/ahmed93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt="Magdi's github stats" />
+  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api?username=ahmed93&show_icons=true&include_all_commits=true&theme=dracula" alt="Magdi's github stats" />
 </a>
 
 <a href="https://github.com/ahmed93/github-readme-stats">
@@ -35,6 +35,3 @@ Hi, I'm Ahmed, a passionate self-taught developer. I am currenlty enjoying devel
 <a href="https://github.com/ahmed93/github-readme-stats">
   <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/pin/?username=ahmed93&repo=github-readme-stats&theme=dracula" />
 </a>    
-<a href="https://github.com/ahmed93/ahmed93.github.io">
-  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/pin/?username=ahmed93&repo=anuraghazra.github.io&theme=dracula" />
-</a>
