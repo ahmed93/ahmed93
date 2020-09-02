@@ -1,18 +1,4 @@
 ### Hi there, I'm [Ahmed!](https://github.com/ahmed93) 👋
-<!--
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
-<br />
-<br />
--->
 Hi, I'm Ahmed, a passionate self-taught developer. I am currenlty enjoying developing iOS applications from start to end. I also love to make scripts in ( Ruby, Bash, Python). 
 
 **Languages and Tools:**  
