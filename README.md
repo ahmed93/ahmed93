@@ -31,7 +31,3 @@ Hi, I'm Ahmed, a passionate self-taught developer. I am currenlty enjoying devel
 <a href="https://github.com/ahmed93/github-readme-stats">
   <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/top-langs/?username=ahmed93&layout=compact&theme=dracula" />
 </a>
-
-<a href="https://github.com/ahmed93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/pin/?username=ahmed93&repo=github-readme-stats&theme=dracula" />
-</a>    
