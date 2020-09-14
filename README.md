@@ -10,7 +10,6 @@ I'm Ahmed Magdi (Aka: Magdi). I am software engineer who loves development. I am
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>    
 
 
-### Title
 <a href="https://github.com/ahmed93/github-readme-stats">
   <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/top-langs/?username=ahmed93&hide_border=true" />
 </a>
