@@ -9,12 +9,12 @@ I'm Ahmed Magdi (Aka: Magdi). I am software engineer who loves development. I am
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>    
 
-
 <a href="https://github.com/ahmed93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/top-langs/?username=ahmed93&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api/top-langs/?username=ahmed93" />
 </a>
-<a href="https://github.com/ahmed93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-seven-xi.vercel.app/api?username=ahmed93&show_icons=true&include_all_commits=true&hide_border=true"/>
+
+<a href="https://github.com/ahmed93">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed93&show_icons=true&include_all_commits=true" />
 </a>
 
 
